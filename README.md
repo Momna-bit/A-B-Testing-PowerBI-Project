@@ -50,16 +50,16 @@ Each row represents a user exposed to Variant A (“psa”) or Variant B (“ad�
 
 This dataset is ideal for demonstrating real-world marketing experimentation.
 
-🧠 3. Experiment Design
-Business Question
+## 🧠 3. Experiment Design
+**Business Question**
 
 Does switching from a PSA-style message to a direct ad improve user conversion rate?
 
-Hypotheses
+**Hypotheses**
 
-H0 (Null): No difference in conversion between Variant A and Variant B
+* **H0 (Null):** No difference in conversion between Variant A and Variant B
 
-H1 (Treatment): Variant B increases conversion
+* **H1 (Treatment):** Variant B increases conversion
 
 Primary KPI
 
