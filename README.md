@@ -19,7 +19,7 @@ Using Power BI, I designed a four-page dashboard that evaluates:
 
 * User behavior patterns
 
-*Funnel movement
+* Funnel movement
 
 * Lift calculations
 
@@ -31,7 +31,7 @@ This project combines **data science thinking** with **business intelligence sto
 
 ## 📁 2. Dataset
 
-**Source:** Marketing A/B Testing Dataset (Kaggle)
+**Source:** Marketing A/B Testing Dataset (Kaggle)\
 **File:** `marketing_AB.csv`
 
 Each row represents a user exposed to Variant A (“psa”) or Variant B (“ad”), along with engagement behavior and conversion outcome.
