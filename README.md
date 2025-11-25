@@ -258,6 +258,6 @@ The effect is meaningful, reliable, and consistent across segments.
 
 ## 🙌 9. About the Author
 
-Momna Ali
-Data Analyst / BI Analyst | Toronto, Canada
+Momna Ali\
+Data Analyst / BI Analyst | Toronto, Canada\
 Skilled in Python, SQL, Power BI, Tableau, Machine Learning, and Experimentation Analytics
