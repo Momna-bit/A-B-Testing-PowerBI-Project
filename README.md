@@ -103,177 +103,177 @@ A clean, simple model was built in Power BI:
 
 This model powers all visualizations and makes the dashboard dynamic and filter-responsive.
 
-📊 5. Power BI Dashboard Structure
+## 📊 5. Power BI Dashboard Structure
 
-The dashboard contains four fully designed pages, each serving a unique analytic purpose.
+The dashboard contains **four fully designed pages**, each serving a unique analytic purpose.
 
-🔹 Page 1 — A/B Test Overview & Key Metrics
+**🔹 Page 1 — A/B Test Overview & Key Metrics**
 
 A high-level executive snapshot showing:
 
-Total users
+* Total users
 
-Users in A vs B
+* Users in A vs B
 
-Conversion Rate A vs B
+* Conversion Rate A vs B
 
-Absolute and Relative Lift
+* Absolute and Relative Lift
 
-Clear experiment summary
+* Clear experiment summary
 
 A clustered bar chart highlights the conversion differences, and a narrative text panel explains the experiment in simple business terms.
 
-🔹 Page 2 — Variant Performance by Segments
+**🔹 Page 2 — Variant Performance by Segments**
 
 This page answers:
-"Who responded better? Which user segments show the largest lift?"
+**"Who responded better? Which user segments show the largest lift?"**
 
 Includes:
 
-Exposure slicers
+* Exposure slicers
 
-Average ads by variant
+* Average ads by variant
 
-Conversion rate by:
+* Conversion rate by:
 
-Day type
+ * Day type
 
-Hour group
+ * Hour group
 
-Variant
+ * Variant
 
-Behavioral comparison between A and B
+* Behavioral comparison between A and B
 
 This reveals deep patterns such as higher responsiveness during specific hours or exposure ranges.
 
-🔹 Page 3 — Engagement Trends & Behavioral Analysis
+**🔹 Page 3 — Engagement Trends & Behavioral Analysis**
 
 Advanced behavioral insights including:
 
-A heatmap showing when conversion peaks
+* A heatmap showing when conversion peaks
 
-A funnel from:
+* A funnel from:
 
-Saw Ads → High Exposure → Converted
+ * Saw Ads → High Exposure → Converted
 
-Insight panel to guide interpretation
+* Insight panel to guide interpretation
 
 This gives stakeholders a full understanding of how users move through the conversion process.
 
-🔹 Page 4 — Final Analysis & Recommendation
+**🔹 Page 4 — Final Analysis & Recommendation**
 
 The decision-making page.
 
 Includes:
 
-Conversion KPI cards
+* Conversion KPI cards
 
-Variant A vs B metrics table
+* Variant A vs B metrics table
 
-Statistical significance table (z-score & p-value)
+* Statistical significance table (z-score & p-value)
 
-Effect Size gauge
+* Effect Size gauge
 
-Significance indicator
+* Significance indicator
 
-Final written recommendation
+* Final written recommendation
 
 This page simulates how analytics teams present experiment results to executives.
 
-📈 6. Key Insights
-✔ Variant B outperformed Variant A
+## 📈 6. Key Insights
+**✔ Variant B outperformed Variant A**
 
-Variant B produced a 0.8% absolute lift — a meaningful gain at scale.
+Variant B produced a **0.8% absolute lift** — a meaningful gain at scale.
 
-✔ The results are statistically significant
+**✔ The results are statistically significant**
 
-p-value: 1.70e-13
+* **p-value:** 1.70e-13
 
-z-score: 7.37
+* **z-score:** 7.37
 Meaning the lift is extremely unlikely to be random.
 
-✔ Lift is consistent across user segments
+**✔ Lift is consistent across user segments**
 
 Conversion advantage holds across:
 
-Weekday vs Weekend
+* Weekday vs Weekend
 
-Morning vs Late Night
+* Morning vs Late Night
 
-High vs Low ad exposure
+* High vs Low ad exposure
 
-✔ Behavior patterns show strategic opportunities
+**✔ Behavior patterns show strategic opportunities**
 
 Certain time-of-day and day-of-week combinations exhibit higher responsiveness, suggesting future personalization opportunities.
 
-🏆 7. Final Recommendation
+## 🏆 7. Final Recommendation
 
 Variant B (“ad”) clearly outperforms Variant A, delivering higher conversion with overwhelming statistical significance.
 The effect is meaningful, reliable, and consistent across segments.
 
-📌 Recommendation:
+**📌 Recommendation:**
 
-Roll out Variant B to 100% of traffic.
+**Roll out Variant B to 100% of traffic.**
 
-Next Steps
+**Next Steps**
 
-Run follow-up personalization tests
+* Run follow-up personalization tests
 
-Explore optimal ad timing & frequency
+* Explore optimal ad timing & frequency
 
-Test message variations to enhance conversions further
+* Test message variations to enhance conversions further
 
-🛠️ 8. Tools & Skills Demonstrated
-Power BI
+## 🛠️ 8. Tools & Skills Demonstrated
+**Power BI**
 
-Data modeling
+* Data modeling
 
-DAX calculations
+* DAX calculations
 
-Interactive segmentation
+* Interactive segmentation
 
-Funnel & heatmap visuals
+* Funnel & heatmap visuals
 
-KPI cards & gauges
+* KPI cards & gauges
 
-Executive dashboards
+* Executive dashboards
 
-A/B Testing
+**A/B Testing**
 
-Hypothesis framing
+* Hypothesis framing
 
-Lift analysis
+* Lift analysis
 
-Segment-level exploration
+* Segment-level exploration
 
-Statistical significance (z-test)
+* Statistical significance (z-test)
 
-Business Intelligence
+**Business Intelligence**
 
-Experiment storytelling
+* Experiment storytelling
 
-Executive insights
+* Executive insights
 
-Data-driven recommendations
+* Data-driven recommendations
 
-🙌 9. About the Author
+## 🙌 9. About the Author
 
-Khushnud Ahmed
+Momna Ali
 Data Analyst / BI Analyst | Toronto, Canada
 Skilled in Python, SQL, Power BI, Tableau, Machine Learning, and Experimentation Analytics
 
-🔗 10. How to Explore the Dashboard
+## 🔗 10. How to Explore the Dashboard
 
 Include:
 
-Link to Power BI report (if published or shared via pbix)
+* Link to Power BI report (if published or shared via pbix)
 
-Repository includes:
+* Repository includes:
 
-Dataset
+ * Dataset
 
-PBIX file
+ * PBIX file
 
-Images of dashboards
+ * Images of dashboards
 
-DAX formulas
+ * DAX formulas
