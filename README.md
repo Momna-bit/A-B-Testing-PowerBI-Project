@@ -261,19 +261,3 @@ The effect is meaningful, reliable, and consistent across segments.
 Momna Ali
 Data Analyst / BI Analyst | Toronto, Canada
 Skilled in Python, SQL, Power BI, Tableau, Machine Learning, and Experimentation Analytics
-
-## 🔗 10. How to Explore the Dashboard
-
-Include:
-
-* Link to Power BI report (if published or shared via pbix)
-
-* Repository includes:
-
- * Dataset
-
- * PBIX file
-
- * Images of dashboards
-
- * DAX formulas
