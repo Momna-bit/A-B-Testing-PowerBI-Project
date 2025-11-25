@@ -1,38 +1,38 @@
 # 📊 A/B Testing Analysis – Marketing Conversion Optimization Using Power BI
-### A complete end-to-end A/B testing project analyzing user behavior, conversion performance, and statistical significance to guide data-driven marketing decisions.
+**A complete end-to-end A/B testing project analyzing user behavior, conversion performance, and statistical significance to guide data-driven marketing decisions.**
 
 This project demonstrates how to design, analyze, and visualize an A/B experiment using a real-world marketing dataset.
-It walks through experiment design, data modeling, segmentation, behavioral insights, and final decision-making, all delivered via an interactive Power BI dashboard.
+It walks through **experiment design, data modeling, segmentation, behavioral insights, and final decision-making**, all delivered via an interactive **Power BI dashboard**.
 
-🚀 1. Project Overview
+## 🚀 1. Project Overview
 
 Modern digital teams rely heavily on A/B testing to validate hypotheses and optimize user experience.
 In this project, I built a complete BI solution to answer a core marketing question:
 
-Which message drives more conversions — a PSA-style message (Variant A) or a direct commercial ad (Variant B)?
+**Which message drives more conversions — a PSA-style message (Variant A) or a direct commercial ad (Variant B)?**
 
 Using Power BI, I designed a four-page dashboard that evaluates:
 
-Conversion rates for A vs B
+* Conversion rates for A vs B
 
-Segment-level performance (day, hour, exposure level)
+* Segment-level performance (day, hour, exposure level)
 
-User behavior patterns
+* User behavior patterns
 
-Funnel movement
+*Funnel movement
 
-Lift calculations
+* Lift calculations
 
-Statistical significance
+* Statistical significance
 
-Final executive recommendation
+* Final executive recommendation
 
-This project combines data science thinking with business intelligence storytelling, producing insights that directly inform marketing strategy.
+This project combines **data science thinking** with **business intelligence storytelling**, producing insights that directly inform marketing strategy.
 
-📁 2. Dataset
+## 📁 2. Dataset
 
-Source: Marketing A/B Testing Dataset (Kaggle)
-File: marketing_AB.csv
+**Source:** Marketing A/B Testing Dataset (Kaggle)
+**File:** `marketing_AB.csv`
 
 Each row represents a user exposed to Variant A (“psa”) or Variant B (“ad”), along with engagement behavior and conversion outcome.
 
