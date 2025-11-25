@@ -36,17 +36,17 @@ This project combines **data science thinking** with **business intelligence sto
 
 Each row represents a user exposed to Variant A (“psa”) or Variant B (“ad”), along with engagement behavior and conversion outcome.
 
-Key Columns
+**Key Columns**
 
-test_group - Variant A (psa) or Variant B (ad)
+* `test_group` - Variant A (psa) or Variant B (ad)
 
-converted - Whether the user completed the target action
+* `converted` - Whether the user completed the target action
 
-total_ads - Number of ads seen
+* `total_ads` - Number of ads seen
 
-most_ads_day - Day user engaged the most
+* `most_ads_day` - Day user engaged the most
 
-most_ads_hour - Time user engaged the most
+* `most_ads_hour` - Time user engaged the most
 
 This dataset is ideal for demonstrating real-world marketing experimentation.
 
