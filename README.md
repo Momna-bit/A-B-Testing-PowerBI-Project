@@ -61,45 +61,45 @@ Does switching from a PSA-style message to a direct ad improve user conversion r
 
 * **H1 (Treatment):** Variant B increases conversion
 
-Primary KPI
+**Primary KPI**
 
-Conversion Rate = Conversions / Users
+**Conversion Rate = Conversions / Users**
 
-Secondary Metrics
+**Secondary Metrics**
 
-Average ads seen
+* Average ads seen
 
-Engagement day
+* Engagement day
 
-Engagement hour
+* Engagement hour
 
-Exposure segment (“High Exposure” vs “Low Exposure”)
+* Exposure segment (“High Exposure” vs “Low Exposure”)
 
-🏗️ 4. Data Modeling
+## 🏗️ 4. Data Modeling
 
 A clean, simple model was built in Power BI:
 
-Fact Table: marketing_AB
+* Fact Table: marketing_AB
 
-Generated Columns:
+* Generated Columns:
 
-Hour Group (Morning, Afternoon, Evening, Late Night)
+  * Hour Group (Morning, Afternoon, Evening, Late Night)
 
-Ad Exposure Segment (High/Low)
+  * Ad Exposure Segment (High/Low)
 
-Day Type (Weekday/Weekend)
+  * Day Type (Weekday/Weekend)
 
-Key DAX Measures:
+* Key DAX Measures:
 
-Total Users
+  * Total Users
 
-Conversion Rate A/B
+  * Conversion Rate A/B
 
-Absolute & Relative Lift
+  * Absolute & Relative Lift
 
-Effect Size
+  * Effect Size
 
-Significance Indicator
+  * Significance Indicator
 
 This model powers all visualizations and makes the dashboard dynamic and filter-responsive.
 
